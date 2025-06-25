@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "269617605720",
+    "project_id": "mantto-2d648",
+    "storage_bucket": "mantto-2d648.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269617605720:android:e2ce2e19958eb2ffa76e2d",
+        "android_client_info": {
+          "package_name": "com.mantto.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269617605720-b2bgjvubtnbbbssgafd1ppmfvvone1a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mantto.app",
+            "certificate_hash": "400959fe04cebdb9ad53c8b9e15c13fe98e8a09c"
+          }
+        },
+        {
+          "client_id": "269617605720-jeb4c3r02b2rqmrsddr7t79vktlf48mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnHy7OJKNjrB5iP3eGOXmhGrAkfqoLLmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269617605720-jeb4c3r02b2rqmrsddr7t79vktlf48mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
